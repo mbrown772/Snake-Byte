@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mmb2m\\OneDrive\\Documents\\Homework\\CS3410\\Snake Byte\\Snake Byte\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1513D7B3-3002-9321-73E3-93C593C634A7}|Assembly-CSharp.csproj|c:\\users\\mmb2m\\onedrive\\documents\\homework\\cs3410\\snake byte\\snake byte\\assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1513D7B3-3002-9321-73E3-93C593C634A7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\snakecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SnakeController.cs",
+              "DocumentMoniker": "C:\\Users\\mmb2m\\OneDrive\\Documents\\Homework\\CS3410\\Snake Byte\\Snake Byte\\Assets\\Scripts\\SnakeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SnakeController.cs",
+              "ToolTip": "C:\\Users\\mmb2m\\OneDrive\\Documents\\Homework\\CS3410\\Snake Byte\\Snake Byte\\Assets\\Scripts\\SnakeController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SnakeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T16:08:59.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

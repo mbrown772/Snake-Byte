@@ -1,0 +1,60 @@
+
+# =============== #
+# Unity generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Avoid uploading locally generated Visual Studio or Rider project files
+# Uncomment if you're using these and want them ignored
+# [Aa]ssets/**/*.csproj
+# [Aa]ssets/**/*.unityproj
+# [Aa]ssets/**/*.sln
+# [Aa]ssets/**/*.suo
+# [Aa]ssets/**/*.user
+# [Aa]ssets/**/*.userprefs
+# [Aa]ssets/**/*.pidb
+# [Aa]ssets/**/*.booproj
+# [Aa]ssets/**/*.svd
+# [Aa]ssets/**/*.unitypackage
+# [Aa]ssets/**/*.mdl
+
+# Prevent uploading crash reports or other Unity-related settings
+CrashReports/
+.vscode/
+.idea/
+*.pidb
+*.booproj
+*.unitypackage
+*.csproj
+*.sln
+*.userprefs
+*.log
+
+# ================================= #
+# OS generated files, thumbnails, etc.
+# ================================= #
+
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.tmp
+*.pid
+*.suo
+*.user
+*.RSResources
+
+# ===================== #
+# Unity Cache/Build Files
+# ===================== #
+
+# Ignore Unity's Cache directory
+[Uu]serSettings/
+
+# Ignore gradle cache (Android)
+.gradle/
